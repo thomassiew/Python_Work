@@ -1,0 +1,313 @@
+<root>
+    <filename>
+        <item key="raw">ITO IOC_INM_WiW Productivity rpt_v2_2017-11-01-01-01-57.xlsx</item>
+        <item key="finaldata">PCC effort count - 2017.xlsx</item>
+    </filename>
+    <Criteria>
+        <item key="Resolved">INM Resolve Group Name</item>
+        <item key="Responsible">INM Responsible Group Name</item>
+        <item key="TitleDesc">INM Brief Description</item>
+    </Criteria>
+    <categories>
+        <SBO>
+            <item key="SBO">C.DPS.MY.CCO.GSO.EVT</item>
+            <item key="SBO">C.DPS.MY.SBO.BNR.EVT</item>
+            <item key="SBO">C.DPS.MY.SBO.BNR.RMI</item>
+            <item key="SBO">C.DPS.MY.SBO.NAS.EVT</item>
+            <item key="SBO">C.DPS.MY.SBO.NAS.RMI</item>
+            <item key="SBO">C.DPS.MY.SBO.SAN.EVT</item>
+            <item key="SBO">C.DPS.MY.SBO.SAN.RMI</item>
+            <item key="SBO">C.DPS.MY.SBO.SO</item>
+        </SBO>
+        <DCO>
+            <item key="DCO">C.DPS.MY.CCO.VSO.LUX.EVT</item>
+            <item key="DCO">C.DPS.MY.CCO.VSO.WIN.EVT</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-LUX</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-LUX-EVT</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-LUX-KONE</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-WIN</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-WIN-EVT</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-WIN-KONE</item>
+            <item key="DCO">C.DPS.MY.DCO.RSS.DSI</item>
+            <item key="DCO">C.DPS.MY.DCO.VSO-WIN-PGA</item>
+            <item key="DCO">C.DPS.MY.DCO.VSO-WIN-SMC</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.TOOLS.EVT</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.TOOLS</item>
+            <item key="DCO">C.DPS.MY.DCO.RSS.DSI</item>
+            <item key="DCO">C.DPS.MY.DCO.RSS.DSI.EVT</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO3</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.VSO-WIN-SEC</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.SVCREQ</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO.DM</item>
+            <item key="DCO">C.DPS.MY.DCO.DSI.STO</item>
+            <item key="DCO">C.DPS.MY.DCO.DSO-VCD</item>
+            <item key="DCO">C.DPS.MY.DCO.SA</item>
+        </DCO>
+        <SHELL>
+            <item key="SHELL">C.SH.MY.LUX.RNM</item>
+            <item key="SHELL">C.SH.MY.WIN.INT</item>
+            <item key="SHELL">C.SH.MY.SEC</item>
+            <item key="SHELL">C.SH.MY.WIN.CUST</item>
+            <item key="SHELL">C.SH.MY.LUX.RNM</item>
+            <item key="SHELL">C.SH.BR.WIN</item>
+            <item key="SHELL">C.SH.INT.DB</item>
+            <item key="SHELL">C.SH.INT.DB.ORA.EVT</item>
+            <item key="SHELL">C.SH.INT.DB.SQL.EVT</item>
+            <item key="SHELL">C.SH.MY.LUX.CIC</item>
+            <item key="SHELL">C.SH.MY.LUX.EVT</item>
+            <item key="SHELL">C.SH.BR.WIN</item>
+            <item key="SHELL">C.SH.BR.LUX</item>
+            <item key="SHELL">C.SH.MY.WIN.CIC</item>
+            <item key="SHELL">C.SH.MY.LUX.OTH</item>
+            <item key="SHELL">C.SH.MY.WIN.MON</item>
+            <item key="SHELL">C.SH.MY.WIN.EVT</item>
+            <item key="SHELL">C.SH.MY.WIN.SEC.EVT</item>
+            <item key="SHELL">C.SH.MY.DSM</item>
+            <item key="SHELL">C.SH.MY.MW.ARNM</item>
+            <item key="SHELL">C.DPS.MY.CCO.SH.LUX.EVT</item>
+            <item key="SHELL">C.DPS.MY.CCO.SH.WIN.EVT</item>
+            <item key="SHELL">C.DPS.MY.CCO.SH.GCC</item>
+        </SHELL>
+        <ONSEC>
+            <item key="ONSEC">C.DPS.MY.CCO.SH.WIN.SEC</item>
+        </ONSEC>
+        <SAP>
+            <item key="SAP">C.SAP.INT.APAC.SAPBASIS-JP</item>
+            <item key="SAP">C.SAP.MY.APAC.LA1</item>
+            <item key="SAP">C.SAP.MY.APAC.LINDE</item>
+            <item key="SAP">C.SAP.MY.APAC.SAPBASIS</item>
+            <item key="SAP">C.SAP.MY.APAC.TYCO</item>
+            <item key="SAP">C.SAP.MY.LA.BAT</item>
+            <item key="SAP">C.SAP.MY.PGA</item>
+            <item key="SAP">C.SAP.MY.GA.KONE</item>
+            <item key="SAP">C.SAP.MY.GA.LINDE</item>
+            <item key="SAP">C.SAP.MY.S-P.SHELL.OP1</item>
+            <item key="SAP">C.SAP.MY.SHELL.SEC</item>
+            <item key="SAP">C.SAP.MY.PGA.HC-CL</item>
+            <item key="SAP">C.SAP.MY.PGA.REQUEST</item>
+            <item key="SAP">C.SAP.MY.S-P.SAP.OP1</item>
+            <item key="SAP">C.SAP.MY.AA.SAPBASIS-US</item>
+            <item key="SAP">C.SAP.SG.APAC.SAPBASIS</item>
+        </SAP>
+        <AAE>
+            <item key="AAE">C.APAC.MY.CFM</item>
+            <item key="AAE">C.APAC.MY.LUX.L2.EVT</item>
+            <item key="AAE">C.APAC.MY.DB</item>
+            <item key="AAE">C.APAC.MY.DB.EVT</item>
+            <item key="AAE">C.APAC.MY.LUX</item>
+            <item key="AAE">C.APAC.MY.LUX.EVT</item>
+            <item key="AAE">C.APAC.MY.WIN</item>
+            <item key="AAE">C.APAC.MY.WIN.EVT</item>
+            <item key="AAE">C.EMEA.MY.BAT.DBA</item>
+            <item key="AAE">C.EMEA.MY.BAT.DBA.ORA.EVT</item>
+            <item key="AAE">C.EMEA.MY.BAT.DBA.SQL.EVT</item>
+            <item key="AAE">C.EMEA.MY.BAT.LUX</item>
+            <item key="AAE">C.EMEA.MY.BAT.LUX.EVT</item>
+            <item key="AAE">C.EMEA.MY.BAT.WIN</item>
+            <item key="AAE">C.EMEA.MY.BAT.WIN.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.AO</item>
+            <item key="AAE">C.EMEA.MY.KONE.AO.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.DBA</item>
+            <item key="AAE">C.EMEA.MY.KONE.DBA.ORA.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.DBA.SQL.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.LUX</item>
+            <item key="AAE">C.EMEA.MY.KONE.LUX.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.WIN</item>
+            <item key="AAE">C.EMEA.MY.KONE.WIN.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.WIN.L2.EVT</item>
+            <item key="AAE">C.EMEA.MY.KONE.LUX.L2.EVT</item>
+            <item key="AAE">C.APAC.MY.WIN.L2.EVT</item>
+            <item key="AAE">C.APAC.MY.LUX.L2.EVT</item>
+            <item key="AAE">C.EMEA.MY.HEINEKEN.DBA.SQL.EVT</item>
+        </AAE>
+        <CCS>
+            <item key="CCS">C.CCS.MY.CES.SHELL.ARCHIVE</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.IMGMASTER</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.K2APP</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.LIVELINKPLUS</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.PFA</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.SCOM</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.SEARCH</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.SHP</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.SHP.EVT</item>
+            <item key="CCS">C.CCS.MY.CES.SHELL.WIKI</item>
+            <item key="CCS">C.CCS.MY.CLC.DSIC.OPS.EVT</item>
+            <item key="CCS">C.CCS.MY.CLC.DSIC.OPS</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.IMGMAST</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.LIVELINK</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.PFA</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.WIKI</item>
+            <item key="CCS">C.CCS.MY.CLC.SHOPS</item>
+            <item key="CCS">C.CCS.MY.CLC.SWD_INFRA</item>
+            <item key="CCS">C.CCS.MY.CLC.SWD_INFRA.EVT</item>
+            <item key="CCS">C.CCS.MY.CLC.VDS.OPS</item>
+            <item key="CCS">C.CCS.MY.CLC.VDS.OPS.EVT</item>
+            <item key="CCS">C.DPS.MY.CCO.GCC</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.SP.EVT</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.SP</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.SCOM</item>
+            <item key="CCS">C.CCS.MY.CLC.SHELL.K2</item>
+        </CCS>
+    </categories>
+    <WI>
+        <item key="SBO">CISCO Message: Facility:</item>
+        <item key="SBO">CommVault</item>
+        <item key="SBO">netapp</item>
+        <item key="DCO">NTPD</item>
+        <item key="DCO">NSCD</item>
+        <item key="DCO">junction.exe</item>
+        <item key="DCO">rar.exe</item>
+        <item key="DCO">sslget.exe</item>
+        <item key="DCO">AVERT</item>
+        <item key="DCO">FailoverClustering</item>
+        <item key="DCO">Logon Failure</item>
+        <item key="DCO">Account</item>
+        <item key="DCO">bad username</item>
+        <item key="DCO">MINOR reboot</item>
+        <item key="DCO">AutoDiscovery</item>
+        <item key="DCO">logcleaner.vbs</item>
+        <item key="DCO">Certificate</item>
+        <item key="DCO">Basemonitoring</item>
+        <item key="DCO">mountpoint</item>
+        <item key="DCO">mount point</item>
+        <item key="DCO">Disk space</item>
+        <item key="DCO">Diskspace</item>
+        <item key="DCO">Volume Is no longer</item>
+        <item key="DCO">SIUX</item>
+        <item key="DCO">WinAudit</item>
+        <item key="DCO">CPU Usage</item>
+        <item key="DCO">No IP</item>
+        <item key="DCO">ITM6 Agent</item>
+        <item key="DCO">C: Full</item>
+        <item key="DCO">Performance Threshold</item>
+        <item key="SHELL">AVERT</item>15
+        <item key="SHELL">mountpoint</item>28
+        <item key="SHELL">mount point</item>6
+        <item key="SHELL">Disk space</item>55
+        <item key="SHELL">Diskspace</item>0
+        <item key="SHELL">Certificate</item>
+        <item key="SHELL">No IP</item>
+        <item key="SHELL">is not running</item>
+        <item key="SHELL">Memory  Degraded</item>
+        <item key="SHELL">Processor Degraded</item>
+        <item key="SHELL">Failed_to_run_lsnrctl</item>
+        <item key="SHELL">ORA-12505</item>
+        <item key="SHELL">TNS-12560</item>
+        <item key="SHELL">TNS-12541</item>
+        <item key="SHELL">ORA-03113</item>
+        <item key="SHELL">ORA-01034</item>
+        <item key="SHELL">Agent_has_stopped_monitoring</item>
+        <item key="SHELL">Agent_is_Unreachable</item>
+        <item key="SHELL">ITM6</item>
+        <item key="SHELL">CPU Usage</item>
+        <item key="SHELL">Linux disk space available: On mount point</item>
+        <item key="SHELL">System Booted</item>
+        <item key="ONSEC">UserAddedToBuiltinAdminGroupP1.vbs</item>
+        <item key="ONSEC">EmergencyAdminLoginCheckP2.vbs</item>
+        <item key="ONSEC">BuiltInAdminPasswordChangedP3.vbs</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Cluster</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">eventlog</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Network Collisions</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Healthcheck Failure: The message flow is broken for the last 10 min from the following node</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">WinAudit</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">SIUX</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Disk Space</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">DiskSpace</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Hardware monitoring failed</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Hardware Status</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">ITM6 Agent</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">less than two DNS servers respond to a DNS query</item>
+        <item group="C.EMEA.MY.KONE.WIN.EVT" key="AAE">Usage of Memory </item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">CPU Usage</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">ITM6</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">Memory is used for</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">swapspace low</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">swap usage</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">No IP</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">winbindd</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">ONSEC Error</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">ntpd is not running</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">Time offset</item>
+        <item group="C.EMEA.MY.KONE.LUX.EVT" key="AAE">There is no line beginning with</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">Healthcheck Failure: The message flow is broken</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">CPU Usage</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">Memory utilization</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">Time offset to NTP server</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">ONSEC, login failure</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">No IP</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">disk usage</item>
+        <item group="C.APAC.MY.LUX.EVT" key="AAE">ntpd is not running</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">eventlog</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">Network Collisions</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">SIUX</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">WinAudit</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">Disk Space</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">Hardware</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">ITM6</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">less than two DNS servers respond to a DNS query</item>
+        <item group="C.APAC.MY.WIN.EVT" key="AAE">Type: Warning, Flag: CLEAN PERIODIC, from drive</item>
+    </WI>
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

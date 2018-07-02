@@ -1,0 +1,22 @@
+<root>
+  <SM9>
+    <item key="INCIDENTID"/>
+    <Mandatory>
+      <item key="TITLE">Testing Ticket Creation Automation [TEST</item>
+      <item key="CUSTOMER"/>
+      <item key="CATEGORY1">DETAILED CATEGORIES</item>
+      <item key="CATEGORY2">SERVER</item>
+      <item key="AG">SE.APAC.SG.DM.TDK</item>
+      <item key="CRIC">NONE</item>
+      <item key="RESTRICTION">NONE</item>
+      <item key="CI">DCPLNX21831769 (S21831769)</item>
+      <item key="WIW">YSIEW</item>
+      <item key="DESCRIPTION">Testing purposes only</item>
+    </Mandatory>
+  </SM9>
+  <time>
+    <item key="ticketsent">INM_1530167349</item>
+    <item key="ticketcreated"/>
+    <item key="ticketfail"/>
+  </time>
+</root>

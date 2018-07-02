@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <rules>
+        <accept>
+            <item AG="C.EMEA.MY.KONE.WIN.EVT">SENTAN</item>
+            <item AG="C.DPS.MY.DCO.DSO.VSO-WIN-EVT"> </item>
+            <item AG="C.APAC.MY.WIN.EVT">SENTAN</item>
+            <item AG="C.APAC.MY.WIN.L2.EVT">SENTAN</item>
+            <item AG="C.APAC.MY.LUX.L2.EVT">FYUNOS</item>
+            <item AG="C.EMEA.MY.BAT.WIN.EVT">SENTAN</item>
+            <item AG="C.EMEA.MY.KONE.LUX.L2.EVT"> </item>
+            <item AG="C.EMEA.MY.KONE.WIN.L2.EVT"> </item>
+            <item AG="C.EMEA.MY.KONE.AO.EVT">SENTAN</item>
+            <item AG="C.APAC.MY.LUX.EVT">FYUNOS</item>
+            <item AG="C.EMEA.MY.BAT.LUX.EVT">FYUNOS</item>
+            <item AG="C.EMEA.MY.KONE.LUX.EVT">FYUNOS</item>
+            <item AG="C.APAC.MY.DB.EVT"> </item>
+            <item AG="C.EMEA.MY.BAT.DBA.ORA.EVT"> </item>
+            <item AG="C.EMEA.MY.BAT.DBA.SQL.EVT"> </item>
+            <item AG="C.EMEA.MY.KONE.DBA.ORA.EVT"> </item>
+            <item AG="C.EMEA.MY.KONE.DBA.SQL.EVT"> </item>
+            <item AG="C.CCS.MY.CLC.DSIC.OPS.EVT"> </item>
+            <item AG="C.CCS.MY.CLC.SHOPS"> </item>
+            <item AG="C.CCS.MY.CLC.SWD_INFRA.EVT"> </item>
+            <item AG="C.CCS.MY.CLC.VDS.OPS.EVT"> </item>
+            <item AG="C.DPS.MY.SBO.BNR.EVT"> </item>
+            <item AG="C.DPS.MY.SBO.NAS.EVT"> </item>
+            <item AG="C.DPS.MY.SBO.SAN.EVT"> </item>
+            <item AG="C.DPS.MY.DCO.DSO.TOOLS.EVT"> </item>
+            <item AG="C.DPS.MY.CCO.SH.WIN.SEC"> </item>
+            <item AG="C.SH.MY.LUX.EVT"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.SP.EVT"> </item>
+            <item AG="C.SH.INT.DB.ORA.EVT"> </item>
+            <item AG="C.SH.INT.DB.SQL.EVT"> </item>
+            <item AG="C.EMEA.MY.KONE.WIN.L2.EVT">SENTAN</item>
+            <item AG="C.DPS.MY.DCO.DSO.DM"> </item>
+            <item AG="C.APAC.MY.DB"> </item>
+            <item AG="C.APAC.MY.LUX">FYUNOS</item>
+            <item AG="C.APAC.MY.WIN">SENTAN</item>
+            <item AG="C.CCS.MY.CLC.SHELL.SP"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.WIKI"> </item>
+            <item AG="C.CCS.MY.CLC.DSIC.OPS"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.IMGMAST"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.K2"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.LIVELINK"> </item>
+            <item AG="C.CCS.MY.CLC.SWD_INFRA"> </item>
+            <item AG="C.CCS.MY.CLC.VDS.OPS"> </item>
+            <item AG="C.DPS.MY.CCO.NSD"> </item>
+            <item AG="C.DPS.MY.DCO.DSO.TOOLS"> </item>
+            <item AG="C.DPS.MY.DCO.RSS.DSI"> </item>
+            <item AG="C.EMEA.MY.BAT.DBA"> </item>
+            <item AG="C.EMEA.MY.BAT.LUX">FYUNOS</item>
+            <item AG="C.EMEA.MY.BAT.WIN">SENTAN</item>
+            <item AG="C.EMEA.MY.KONE.AO">SENTAN</item>
+            <item AG="C.EMEA.MY.KONE.DBA"> </item>
+            <item AG="C.EMEA.MY.KONE.LUX">FYUNOS</item>
+            <item AG="C.EMEA.MY.KONE.WIN">SENTAN</item>
+            <item AG="C.SAP.MY.S-P.SHELL.OP1"> </item>
+            <item AG="C.CCS.MY.CLC.SHELL.SCOM"> </item>
+            <item AG="C.SAP.MY.S-P.SHELL.JV"> </item>
+            <item AG="C.SAP.MY.SHELL.SEC"> </item>
+            <item AG="C.SAP.MY.AA.SAPBASIS-US"> </item>
+            <item AG="C.SAP.SG.APAC.SAPBASIS"> </item>
+            <item AG="C.SAP.MY.APAC.TYCO"> </item>
+            <item AG="C.SAP.MY.GA.LINDE"> </item>
+            <item AG="C.SAP.MY.GA.KONE"> </item>
+            <item AG="C.SAP.INT.APAC.SAPBASIS-JP"/>
+            <item AG="C.SAP.MY.APAC.SAPBASIS"> </item>
+            <item AG="C.SH.MY.LUX.CIC"> </item>
+            <item AG="C.SH.MY.WIN.CIC"> </item>
+            <item AG="C.DPS.MY.CCO.SH.WIN.EVT" NEWAG="C.SH.MY.WIN.MON">task-win</item>
+            <item AG="C.SH.MY.WIN.EVT" NEWAG="C.SH.MY.WIN.MON">task-win</item>
+            <item AG="C.DPS.MY.CCO.VSO.WIN.EVT" NEWAG="C.DPS.MY.DCO.DSO.VSO-WIN-EVT">task-win</item>
+            <item AG="C.DPS.MY.CCO.SH.LUX.EVT" NEWAG="C.SH.MY.LUX.EVT">task-lux</item>
+        </accept>
+    </rules>
+    <tasks>
+        <task>
+            <item key="name">task-win</item>
+            <wi>
+                <item key="task">No IP Connection to</item>
+                <item key="task">Logical Disk Space C:</item>
+                <item key="task">Logical Disk Space E:</item>
+                <item key="task">Disk E</item>
+                <item key="task">Drive Array Accelerator data or battery failed</item>
+                <item key="task">Processor Degraded</item>
+                <item key="task">Memory Degraded</item>
+                <item key="task">Remote Management Processor degraded (RIB)</item>
+                <item key="task">Drive Array Failed or Degraded</item>
+                <item key="task">Disk Space</item>
+                <item key="task">MBytes;EventID</item>
+                <item key="task">Non-System Drive C: Disk Space Issue</item>
+                <item key="task">Services Down</item>
+                <item key="task">Agent Offline Issue</item>
+                <item key="task">Winaudit</item>
+                <item key="task">SSL certificate</item>
+            </wi>
+        </task>
+        <task>
+            <item key="name">task-lux</item>
+            <wi>
+                <item key="task">No IP Connection to</item>
+                <item key="task">ITM6 OS agent</item>
+                <item key="task">ITM6 agent</item>
+                <item key="task">Disk space utilization</item>
+                <item key="task">On mount point</item>
+                <item key="task">CPU utilization</item>
+                <item key="task">CPU usage</item>
+                <item key="task">Swap space usage</item>
+                <item key="task">Swapspace</item>
+                <item key="task">System was rebooted</item>
+                <item key="task">System booted</item>
+            </wi>
+        </task>
+    </tasks>
+</root>

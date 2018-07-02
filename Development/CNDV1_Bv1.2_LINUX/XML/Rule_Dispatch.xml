@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <rules>
+        <dispatches>
+            <group>
+                <item key="C.DPS.MY.CCO.SH.WIN.EVT">C.SH.MY.WIN.MON</item>
+                <item key="C.SH.MY.WIN.EVT">C.SH.MY.WIN.MON</item>
+                <item key="C.DPS.MY.CCO.VSO.WIN.EVT">C.DPS.MY.DCO.DSO.VSO-WIN-EVT</item>
+                <conditions>
+                    <item key="task">No IP Connection to</item>
+                    <item key="task">Logical Disk Space</item>
+                    <item key="task">Disk E</item>
+                    <item key="task">Drive Array Accelerator data or battery failed</item>
+                    <item key="task">Processor Degraded</item>
+                    <item key="task">Memory Degraded</item>
+                    <item key="task">Remote Management Processor degraded (RIB)</item>
+                    <item key="task">is not running</item>
+                    <item key="task">Healthcheck Failure: The message flow is broken for the last 10 min</item>
+                    <item key="task">Drive Array Failed or Degraded</item>
+                    <item key="task">Disk Space</item>
+                    <item key="task">MBytes;EventID</item>
+                    <item key="task">Non-System Drive C: Disk Space Issue</item>
+                    <item key="task">Services Down</item>
+                    <item key="task">Agent Offline Issue</item>
+                    <item key="task">Winaudit</item>
+                    <item key="task">SSL certificate</item>
+                </conditions>
+            </group>
+            <group>
+                <item key="C.DPS.MY.CCO.SH.LUX.EVT">C.SH.MY.LUX.EVT</item>
+                <conditions>
+                    <item key="task">No IP Connection to</item>
+                    <item key="task">ITM6 OS agent</item>
+                    <item key="task">ITM6 agent</item>
+                    <item key="task">Disk space utilization</item>
+                    <item key="task">On mount point</item>
+                    <item key="task">CPU utilization</item>
+                    <item key="task">CPU usage</item>
+                    <item key="task">Swap space usage</item>
+                    <item key="task">Swapspace</item>
+                    <item key="task">System was rebooted</item>
+                    <item key="task">System booted</item>
+                </conditions>
+            </group>
+        </dispatches>
+    </rules>
+</root>

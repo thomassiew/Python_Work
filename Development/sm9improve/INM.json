@@ -1,0 +1,727 @@
+{
+    'instance': {
+        'IncidentID': {
+            '_value_1': 'SIT0016986249',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'OpenTime': {
+            '_value_1': datetime.datetime(2018, 1, 23, 15, 35, 50, tzinfo=<FixedOffset '+00:00'>),
+            'type': 'DateTime',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Priority': {
+            '_value_1': '5',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Criticality': {
+            '_value_1': 'MEDIUM',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'UpdateTime': {
+            '_value_1': datetime.datetime(2018, 1, 23, 15, 35, 50, tzinfo=<FixedOffset '+00:00'>),
+            'type': 'DateTime',
+            'mandatory': None,
+            'readonly': None
+        },
+        'AssignmentGroup': {
+            '_value_1': 'SL.ACME.TRAINING',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'CloseTime': None,
+        'CauseCode': None,
+        'ResolutionCode': None,
+        'CIUID': {
+            '_value_1': 'TENEBROUS',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'DeviceType': None,
+        'Description': {
+            'Description': [
+                {
+                    '_value_1': 'An error occurred while executing a flow run of UseCase VM_Create',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'UseCase HP-OO Flow Run ID: 5419203331',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'UseCase Job ID: 182953',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Timestamp Notification: 2018-01-23 16:17:21.193',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'ErrorCode 1:7:0002',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'HPOO was not able to get a clean status from the VM that it is now able to recieve the Monitoring Framework. This can happen if the VM did not send a status in time or that the Status of the Monitoring Framework did send a "failed" status. ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Please check the HPOO Flow output for details. ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'You can restart the flow if you have check the system and the flow logs and everything shows that the system is now ready to recive the Monitoring Framework.',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Monitoring error: VM is not ready to deploy monitoring module (SID: S74831662)',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': '## Runtime information',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Location: dsi3kre01',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM UUID: 32ac6a33-46fe-46d2-87c8-7601efad34ac',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Name: DEMO0_dcpAPAC66198478_8618f08c60fdb91401611dcfb660',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Hostname: dcplnx74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Hostname Customer: dcplnx74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM AssetManager SystemId: S74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM DSI Image Type: MANAGED',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'vOrg Name: tsi-cic-dev',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'vOrg UUID: 851988c6-9d11-4d8f-a3ca-e3e6e2bd860b',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'User: svc_cic_automation',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Blocking Task ID: 3ee2b348-27b8-4477-b948-3e20c7',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'External Service Task ID: d3574123-7c55-416f-905f-49a4d1225e9f',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': u'Public Error Message: Internal DSI Deployment Error \u2013 please contact your customer support! (C1:7:0002)',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'HP-OO Report Link: https://dcpoth21385225.dcp.ts-ian.net:8443/oo/#/runtimeWorkspace/runs/5419203331',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'CAMP Restart Info: for Windows VMs  (True), for Linux VMs (True)     ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'CAMP Job Link: https://q4dee1sy691.ffm.t-systems.com/cfavdo/do/struts/vdomenue.action?navMenue.item=@joblist&jobId=182953',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': '### Remark',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'n/a',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                }
+            ],
+            'type': 'Array'
+        },
+        'Resolution': None,
+        'DowntimeEnd': None,
+        'DowntimeStart': {
+            '_value_1': datetime.datetime(2018, 1, 23, 14, 35, 47, tzinfo=<FixedOffset '+00:00'>),
+            'type': 'DateTime',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ContactUserID': {
+            '_value_1': 'WSTEST',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'WorkLog': {
+            'WorkLog': [
+                {
+                    '_value_1': '23/01/18 16:35:50 [Europe/Middle] - (XATEST)',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Initial Description:',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'An error occurred while executing a flow run of UseCase VM_Create',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'UseCase HP-OO Flow Run ID: 5419203331',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'UseCase Job ID: 182953',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Timestamp Notification: 2018-01-23 16:17:21.193',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'ErrorCode 1:7:0002',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'HPOO was not able to get a clean status from the VM that it is now able to recieve the Monitoring Framework. This can happen if the VM did not send a status in time or that the Status of the Monitoring Framework did send a "failed" status. ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Please check the HPOO Flow output for details. ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'You can restart the flow if you have check the system and the flow logs and everything shows that the system is now ready to recive the Monitoring Framework.',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Monitoring error: VM is not ready to deploy monitoring module (SID: S74831662)',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': '## Runtime information',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Location: dsi3kre01',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM UUID: 32ac6a33-46fe-46d2-87c8-7601efad34ac',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Name: DEMO0_dcpAPAC66198478_8618f08c60fdb91401611dcfb660',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Hostname: dcplnx74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM Hostname Customer: dcplnx74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM AssetManager SystemId: S74831662',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'VM DSI Image Type: MANAGED',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'vOrg Name: tsi-cic-dev',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'vOrg UUID: 851988c6-9d11-4d8f-a3ca-e3e6e2bd860b',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'User: svc_cic_automation',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'Blocking Task ID: 3ee2b348-27b8-4477-b948-3e20c7',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'External Service Task ID: d3574123-7c55-416f-905f-49a4d1225e9f',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': u'Public Error Message: Internal DSI Deployment Error \u2013 please contact your customer support! (C1:7:0002)',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'HP-OO Report Link: https://dcpoth21385225.dcp.ts-ian.net:8443/oo/#/runtimeWorkspace/runs/5419203331',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'CAMP Restart Info: for Windows VMs  (True), for Linux VMs (True)     ',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'CAMP Job Link: https://q4dee1sy691.ffm.t-systems.com/cfavdo/do/struts/vdomenue.action?navMenue.item=@joblist&jobId=182953',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': None,
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': '### Remark',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                },
+                {
+                    '_value_1': 'n/a',
+                    'type': 'String',
+                    'mandatory': None,
+                    'readonly': None
+                }
+            ],
+            'type': 'Array'
+        },
+        'OpenGroup': {
+            '_value_1': 'SL.ACME.TRAINING',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'AlertStatus': None,
+        'ContactLastName': {
+            '_value_1': 'TEST',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ContactFirstName': {
+            '_value_1': 'WS',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Title': {
+            '_value_1': 'DSI vCloud / dsi3kre01 / tsi-cic-dev / dcplnx74831662 / Error during flow run: VM_Create (1:7:0002)',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Status': {
+            '_value_1': 'Open',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Category2': {
+            '_value_1': 'DATA CENTER OPEN SYSTEMS',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Category3': {
+            '_value_1': 'SERVER',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Category4': None,
+        'ReportedByUserID': {
+            '_value_1': 'WSTEST',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ContactCountry': None,
+        'SLATargetDate': None,
+        'UpdateType': None,
+        'ContactEmail': None,
+        'CBI': {
+            '_value_1': 'MEDIUM',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'SMBBOwnershipLocal': {
+            '_value_1': True,
+            'type': 'Boolean',
+            'mandatory': None,
+            'readonly': None
+        },
+        'WorkaroundFlag': {
+            '_value_1': False,
+            'type': 'Boolean',
+            'mandatory': None,
+            'readonly': None
+        },
+        'MajorFlag': {
+            '_value_1': False,
+            'type': 'Boolean',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ServiceRestriction': {
+            '_value_1': 'MEDIUM',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'Category1': {
+            '_value_1': 'HARDWARE',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ResolveCategory1': None,
+        'ResolveCategory2': None,
+        'ResolveCategory3': None,
+        'ContactCustomerName': None,
+        'CustomerName': {
+            '_value_1': 'ACME',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ReportedByFirstName': {
+            '_value_1': 'WS',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ReportedByLastName': {
+            '_value_1': 'TEST',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ReportedByEmail': None,
+        'ReportedByCustomerName': None,
+        'CustomerID': {
+            '_value_1': '90009998.000100',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'tsi.cilist': {
+            'tsi.cilist': [
+                {
+                    'CIListUID': {
+                        '_value_1': 'TENEBROUS',
+                        'type': 'String',
+                        'mandatory': None,
+                        'readonly': None
+                    },
+                    'CIListName': {
+                        '_value_1': 'TENEBROUS',
+                        'type': 'String',
+                        'mandatory': None,
+                        'readonly': None
+                    },
+                    'type': 'StructureType'
+                }
+            ],
+            'type': 'Array'
+        },
+        'ServiceID': None,
+        'CIStatus': None,
+        'SystemName': None,
+        'InitialSolutionFlag': None,
+        'ReportedByCountry': None,
+        'CICustomerName': None,
+        'tsi.external.reference': None,
+        'SMBBCreatorSystem': None,
+        'SMBBOwnerSystem': None,
+        'IncidentType': {
+            '_value_1': 'NONE',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'CustomerLocation': {
+            '_value_1': 'ACME_LOCATION',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'NotifiedBy': {
+            '_value_1': 'phone',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'TargetTime': None,
+        'SecurityFlag': {
+            '_value_1': False,
+            'type': 'Boolean',
+            'mandatory': None,
+            'readonly': None
+        },
+        'AffectedCI': {
+            '_value_1': 'TENEBROUS',
+            'type': 'String',
+            'mandatory': None,
+            'readonly': None
+        },
+        'ResolveCategory4': None,
+        'Urgency': None,
+        'DecoupledPriority': {
+            '_value_1': True,
+            'type': 'Boolean',
+            'mandatory': None,
+            'readonly': None
+        },
+        'attachments': {
+            'attachment': []
+        },
+        'query': None,
+        'uniquequery': 'number="SIT0016986249"',
+        'recordid': 'SIT0016986249 - DSI vCloud / dsi3kre01 / tsi-cic-dev / dcplnx74831662 / Error during flow run: VM_Create (1:7:0002)',
+        'updatecounter': None
+    },
+    'message': 'Success',
+    'returnCode': '0'
+}

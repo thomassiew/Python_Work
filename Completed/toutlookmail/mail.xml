@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <email>
+        <query>
+            "Queryname"
+        </query>
+        <attachment>
+            <attach>
+                <item key="filename">GET-VOLUME.HTML</item>
+                <item key="embedintobody">True</item>
+            </attach>
+            <attach>
+                <item key="filename">GET-VOLUME3.HTML</item>
+                <item key="embedintobody">True</item>
+            </attach>
+            <attach>
+                <item key="filename">GET-VOLUME4.HTML</item>
+                <item key="embedintobody">True</item>
+            </attach>
+             <attach>
+                <item key="filename">GET-VOLUME2.HTML</item>
+                <item key="embedintobody">True</item>
+            </attach>
+            <attach>
+                <item key="filename">ads.xlsx</item>
+                <item key="embedintobody">False</item>
+            </attach>
+            <attach>
+                <item key="filename">ad2.xlsx</item>
+                <item key="embedintobody">False</item>
+            </attach>
+        </attachment>
+        <item key="To">ysiew</item>
+        <item key="Cc">ysiew</item>
+        <item key="Bcc">ysiew</item>
+        <item key="Subject">nimen haoo</item>
+        <item key="Body">hiiiiiiiiiiii<p> iiiiii</item>
+    </email>
+</root>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <AG>
+		<item key="AG">C.DPS.MY.CCO.GSO.EVT</item>
+        <item key="AG">C.DPS.MY.SBO.BNR.EVT</item>
+		<item key="AG">C.DPS.MY.SBO.BNR.RMI</item>
+		<item key="AG">C.DPS.MY.SBO.NAS.RMI</item>
+		<item key="AG">C.DPS.MY.SBO.SAN.EVT</item>
+		<item key="AG">C.DPS.MY.SBO.SAN.RMI</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-LUX</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-LUX-EVT</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-LUX-KONE</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-WIN</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-WIN-KONE</item>
+		<item key="AG">C.DPS.MY.DCO.RSS.DSI</item>
+		<item key="AG">C.DPS.MY.DCO.VSO-WIN-PGA</item>
+		<item key="AG">C.DPS.MY.DCO.VSO-WIN-SMC</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.TOOLS</item>
+		<item key="AG">C.SH.INT.DB</item>
+		<item key="AG">C.SH.INT.DB.ORA.EVT</item>
+		<item key="AG">C.SH.INT.DB.SQL.EVT</item>
+		<item key="AG">C.SH.MY.LUX.CIC</item>
+		<item key="AG">C.SH.MY.LUX.EVT</item>
+		<item key="AG">C.SH.BR.WIN</item>
+		<item key="AG">C.SH.BR.LUX</item>
+		<item key="AG">C.SH.MY.WIN.CIC</item>
+		<item key="AG">C.SH.MY.WIN.EVT</item>
+		<item key="AG">C.DPS.MY.CCO.SH.LUX.EVT</item>
+		<item key="AG">C.DPS.MY.CCO.SH.WIN.EVT</item>
+		<item key="AG">C.DPS.MY.CCO.SH.WIN.SEC</item>
+		<item key="AG">C.SAP.INT.APAC.SAPBASIS-JP</item>
+		<item key="AG">C.SAP.MY.APAC.LA1</item>
+		<item key="AG">C.SAP.MY.APAC.LINDE</item>
+		<item key="AG">C.SAP.MY.APAC.SAPBASIS</item>
+		<item key="AG">C.SAP.MY.APAC.TYCO</item>
+		<item key="AG">C.SAP.MY.LA.BAT</item>
+		<item key="AG">C.SAP.MY.PGA</item>
+		<item key="AG">C.SAP.MY.PGA.HC-CL</item>
+		<item key="AG">C.SAP.MY.PGA.REQUEST</item>
+		<item key="AG">C.SAP.MY.S-P.SHELL.OP1</item>
+		<item key="AG">C.SAP.MY.AA.SAPBASIS-US </item>
+		<item key="AG">C.SAP.SG.APAC.SAPBASIS</item>
+		<item key="AG">C.APAC.MY.DB</item>
+		<item key="AG">C.APAC.MY.DB.EVT</item>
+		<item key="AG">C.APAC.MY.LUX</item>
+		<item key="AG">C.APAC.MY.LUX.EVT</item>
+		<item key="AG">C.APAC.MY.WIN</item>
+		<item key="AG">C.DPS.MY.CCO.VSO.LUX.EVT</item>
+		<item key="AG">C.APAC.MY.WIN.EVT</item>
+		<item key="AG">C.EMEA.INT.PHI.DBA</item>
+		<item key="AG">C.EMEA.INT.PHI.DBA.ORA.EVT</item>
+		<item key="AG">C.EMEA.INT.PHI.DBA.SQL.EVT</item>
+		<item key="AG">C.EMEA.MY.BAT.DBA</item>
+		<item key="AG">C.EMEA.MY.BAT.DBA.ORA.EVT</item>
+		<item key="AG">C.EMEA.MY.BAT.DBA.SQL.EVT</item>
+		<item key="AG">C.EMEA.MY.BAT.LUX</item>
+		<item key="AG">C.EMEA.MY.BAT.LUX.EVT</item>
+		<item key="AG">C.EMEA.MY.BAT.WIN</item>
+		<item key="AG">C.EMEA.MY.BAT.WIN.EVT</item>
+		<item key="AG">C.EMEA.MY.KONE.AO</item>
+		<item key="AG">C.EMEA.MY.KONE.AO.EVT</item>
+		<item key="AG">C.EMEA.MY.KONE.DBA</item>
+		<item key="AG">C.EMEA.MY.KONE.DBA.ORA.EVT</item>
+		<item key="AG">C.EMEA.MY.KONE.DBA.SQL.EVT</item>
+		<item key="AG">C.EMEA.MY.KONE.LUX</item>
+		<item key="AG">C.DPS.MY.CCO.SH.GCC</item>
+		<item key="AG">C.EMEA.MY.KONE.LUX.EVT</item>
+		<item key="AG">C.EMEA.MY.KONE.WIN</item>
+		<item key="AG">C.EMEA.MY.KONE.WIN.EVT</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.ARCHIVE</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.IMGMASTER</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.K2APP</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.LIVELINKPLUS</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.PFA</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.SCOM</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.SEARCH</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.SHP</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.SHP.EVT</item>
+		<item key="AG">C.CCS.MY.CES.SHELL.WIKI</item>
+		<item key="AG">C.CCS.MY.CLC.DSIC.OPS</item>
+		<item key="AG">C.CCS.MY.CLC.DSIC.OPS.EVT</item>
+		<item key="AG">C.CCS.MY.CLC.SHELL.IMGMAST</item>
+		<item key="AG">C.CCS.MY.CLC.SHELL.LIVELINK</item>
+		<item key="AG">C.CCS.MY.CLC.SHELL.PFA</item>
+		<item key="AG">C.CCS.MY.CLC.SHELL.WIKI</item>
+		<item key="AG">C.CCS.MY.CLC.SHOPS</item>
+		<item key="AG">C.CCS.MY.CLC.SWD_INFRA</item>
+		<item key="AG">C.CCS.MY.CLC.SWD_INFRA.EVT</item>
+		<item key="AG">C.CCS.MY.CLC.VDS.OPS</item>
+		<item key="AG">C.CCS.MY.CLC.VDS.OPS.EVT</item>
+		<item key="AG">C.DPS.MY.CCO.GCC</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.VSO-WIN-EVT</item>
+		<item key="AG">C.DPS.MY.DCO.DSO.TOOLS.EVT</item>
+		<item key="AG">C.DPS.MY.CCO.VSO.WIN.EVT</item>
+    </AG>
+	<opentime>
+		<item key="time">year(open.time)=year(tod()) and (month(open.time)=month(tod()) - 1)</item>
+		<item key="times">open.time=date('1 00:00:00')</item>
+	</opentime>
+</root>

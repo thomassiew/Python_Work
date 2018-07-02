@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <rules>
+
+        <task-win>
+            <item key="C.APAC.MY.WIN">C.APAC.MY.WIN.EVT</item>
+            <item key="C.APAC.MY.WIN">C.APAC.MY.WIN.EVT</item>
+            <item key="C.APAC.MY.WIN">C.APAC.MY.WIN.EVT</item>
+            <item key="C.APAC.MY.WIN">C.APAC.MY.WIN.EVT</item>
+            <item key="C.APAC.MY.WIN">C.APAC.MY.WIN.EVT</item>
+            <condition>
+                <item key="task">No IP Connection to</item>
+                <item key="task">Logical Disk Space C:</item>
+                <item key="task">Logical Disk Space E:</item>
+                <item key="task">Disk E</item>
+                <item key="task">Drive Array Accelerator data or battery failed</item>
+                <item key="task">Processor Degraded</item>
+                <item key="task">Memory Degraded</item>
+                <item key="task">Remote Management Processor degraded (RIB)</item>
+                <item key="task">Drive Array Failed or Degraded</item>
+                <item key="task">Disk Space</item>
+                <item key="task">MBytes;EventID</item>
+                <item key="task">Non-System Drive C: Disk Space Issue</item>
+                <item key="task">Services Down</item>
+                <item key="task">Agent Offline Issue</item>
+                <item key="task">Winaudit</item>
+                <item key="task">SSL certificate</item>
+            </condition>
+        </task-win>
+        <task-lux>
+
+        </task-lux>
+
+        <accept>
+            <item key="C.APAC.MY.WIN">SENTAN </item>
+            <item Assignee="SENTAN">C.APAC.MY.WIN</item>
+            <item Assignee="SENTAN">C.APAC.MY.WIN.EVT</item>
+            <item Assignee="SENTAN">C.APAC.MY.WIN.L2.EVT</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.WIN.EVT</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.WIN.L2.EVT</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.AO</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.AO.EVT</item>
+            <item Assignee="SENTAN">C.EMEA.MY.BAT.WIN</item>
+            <item Assignee="SENTAN">C.EMEA.MY.BAT.WIN.EVT</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.WIN</item>
+            <item Assignee="SENTAN">C.EMEA.MY.KONE.WIN.L2.EVT</item>
+            <item Assignee="FYUNOS">C.APAC.MY.LUX</item>
+            <item Assignee="FYUNOS">C.APAC.MY.LUX.EVT</item>
+            <item Assignee="FYUNOS">C.APAC.MY.LUX.L2.EVT</item>
+            <item Assignee="FYUNOS">C.EMEA.MY.BAT.LUX</item>
+            <item Assignee="FYUNOS">C.EMEA.MY.BAT.LUX.EVT</item>
+            <item Assignee="FYUNOS">C.EMEA.MY.KONE.LUX</item>
+            <item Assignee="FYUNOS">C.EMEA.MY.KONE.LUX.EVT</item>
+            <item Assignee="FYUNOS">C.EMEA.MY.KONE.LUX.L2.EVT</item>
+            <item Assignee=" ">C.APAC.MY.DB</item>
+            <item Assignee=" ">C.EMEA.MY.BAT.DBA</item>
+            <item Assignee=" ">C.EMEA.MY.BAT.DBA.ORA.EVT</item>
+            <item Assignee=" ">C.EMEA.MY.BAT.DBA.SQL.EVT</item>
+            <item Assignee=" ">C.EMEA.MY.KONE.DBA</item>
+            <item Assignee=" ">C.EMEA.MY.KONE.DBA.ORA.EVT</item>
+            <item Assignee=" ">C.EMEA.MY.KONE.DBA.SQL.EVT</item>
+            <item Assignee=" ">C.DPS.MY.DCO.DSO.VSO-WIN-EVT</item>
+            <item Assignee=" ">C.DPS.MY.CCO.NSD</item>
+            <item Assignee=" ">C.DPS.MY.DCO.DSO.TOOLS</item>
+            <item Assignee=" ">C.DPS.MY.DCO.RSS.DSI</item>
+            <item Assignee=" ">C.DPS.MY.SBO.BNR.EVT</item>
+            <item Assignee=" ">C.DPS.MY.SBO.NAS.EVT</item>
+            <item Assignee=" ">C.DPS.MY.SBO.SAN.EVT</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.SP</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.WIKI</item>
+            <item Assignee=" ">C.CCS.MY.CLC.DSIC.OPS</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.IMGMAST</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.K2</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.LIVELINK</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SWD_INFRA</item>
+            <item Assignee=" ">C.CCS.MY.CLC.VDS.OPS</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.SCOM</item>
+            <item Assignee=" ">C.SAP.MY.S-P.SHELL.OP1</item>
+            <item Assignee=" ">C.SAP.MY.S-P.SHELL.JV</item>
+            <item Assignee=" ">C.SAP.MY.SHELL.SEC</item>
+            <item Assignee=" ">C.SAP.MY.AA.SAPBASIS-US</item>
+            <item Assignee=" ">C.SAP.SG.APAC.SAPBASIS</item>
+            <item Assignee=" ">C.SAP.MY.APAC.TYCO</item>
+            <item Assignee=" ">C.SAP.MY.GA.LINDE</item>
+            <item Assignee=" ">C.SAP.MY.GA.KONE</item>
+            <item Assignee=" ">C.SAP.INT.APAC.SAPBASIS-JP</item>
+            <item Assignee=" ">C.SAP.MY.APAC.SAPBASIS</item>
+            <item Assignee=" ">C.SH.MY.LUX.CIC</item>
+            <item Assignee=" ">C.SH.MY.WIN.CIC</item>
+            <item Assignee=" ">C.APAC.MY.DB.EVT</item>
+            <item Assignee=" ">C.CCS.MY.CLC.DSIC.OPS.EVT</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHOPS</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SWD_INFRA.EVT</item>
+            <item Assignee=" ">C.CCS.MY.CLC.VDS.OPS.EVT</item>
+            <item Assignee=" ">C.DPS.MY.DCO.DSO.TOOLS.EVT</item>
+            <item Assignee=" ">C.DPS.MY.CCO.SH.WIN.SEC</item>
+            <item Assignee=" ">C.SH.MY.LUX.EVT</item>
+            <item Assignee=" ">C.CCS.MY.CLC.SHELL.SP.EVT</item>
+            <item Assignee=" ">C.SH.INT.DB.ORA.EVT</item>
+            <item Assignee=" ">C.SH.INT.DB.SQL.EVT</item>
+            <item Assignee=" ">C.DPS.MY.DCO.DSO.DM</item>
+        </accept>
+        <WI>
+            <item Assignee=" " NEWAG="C.SH.MY.WIN.MON" Work="task-win">C.DPS.MY.CCO.SH.WIN.EVT</item>
+            <item Assignee=" " NEWAG="C.SH.MY.WIN.MON" Work="task-win">C.SH.MY.WIN.EVT</item>
+            <item Assignee=" " NEWAG="C.DPS.MY.DCO.DSO.VSO-WIN-EVT" Work="task-win">C.DPS.MY.CCO.VSO.WIN.EVT</item>
+            <item Assignee=" " NEWAG="C.SH.MY.LUX.EVT" Work="task-lux">C.DPS.MY.CCO.SH.LUX.EVT</item>
+        </WI>
+        <Email>
+            <item Assignee=" " To="DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.SAP.MY.APAC.LA1</item>
+            <item Assignee=" " To="DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.SAP.MY.APAC.LINDE</item>
+            <item Assignee=" " To="DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.SAP.MY.LA.BAT</item>
+            <item Assignee=" " To="BMWDMS_support.cn@t-systems.com; Michael.Gao@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.CN.UNX</item>
+            <item Assignee=" " To="Dave.Chen@t-systems.com; Chao.Ma@t-systems.com ; qing.tian@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.CN.SYSMGT</item>
+            <item Assignee=" " To="csnw@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.DPS.SG.DCN</item>
+            <item Assignee=" " To="DCOps-Singapore@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.DPS.SG.CCO.DCOPS</item>
+            <item Assignee=" " To="tao.feng@buyin.pro; xibin.zhang@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.CN.WIN</item>
+            <item Assignee=" " To="xbai@vli.t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.CN.SBO</item>
+            <item Assignee=" " To="tss_cs_windows_support@t-systems.com;tss_cs_unix_support@t-systems.com; tsscs-vmsupport@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.SG.DEPLOY</item>
+            <item Assignee=" " To="Paul.Huang@t-systems.com" CC="DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.APAC.CN.DCI</item>
+            <item Assignee=" " To="FMB-TSMY-GSO-BNR-RM@t-systems.com" CC="DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.DPS.MY.SBO.BNR.RMI</item>
+            <item Assignee=" " To="FMB-TSMY-GSO-NAS-RM@t-systems.com" CC="DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.DPS.MY.SBO.NAS.RMI</item>
+            <item Assignee=" " To="FMB-TSMY-GSO-SAN-RM@t-systems.com" CC="DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com">C.DPS.MY.SBO.SAN.RMI</item>
+        </Email>
+
+
+    </rules>
+    <tasks>
+        <task>
+            <item key="name">task-win</item>
+            <wi>
+                <item key="task">No IP Connection to</item>
+                <item key="task">Logical Disk Space C:</item>
+                <item key="task">Logical Disk Space E:</item>
+                <item key="task">Disk E</item>
+                <item key="task">Drive Array Accelerator data or battery failed</item>
+                <item key="task">Processor Degraded</item>
+                <item key="task">Memory Degraded</item>
+                <item key="task">Remote Management Processor degraded (RIB)</item>
+                <item key="task">Drive Array Failed or Degraded</item>
+                <item key="task">Disk Space</item>
+                <item key="task">MBytes;EventID</item>
+                <item key="task">Non-System Drive C: Disk Space Issue</item>
+                <item key="task">Services Down</item>
+                <item key="task">Agent Offline Issue</item>
+                <item key="task">Winaudit</item>
+                <item key="task">SSL certificate</item>
+            </wi>
+        </task>
+        <task>
+            <item key="name">task-lux</item>
+            <wi>
+                <item key="task">No IP Connection to</item>
+                <item key="task">ITM6 OS agent</item>
+                <item key="task">ITM6 agent</item>
+                <item key="task">Disk space utilization</item>
+                <item key="task">On mount point</item>
+                <item key="task">CPU utilization</item>
+                <item key="task">CPU usage</item>
+                <item key="task">Swap space usage</item>
+                <item key="task">Swapspace</item>
+                <item key="task">System was rebooted</item>
+                <item key="task">System booted</item>
+            </wi>
+        </task>
+        <task>
+        </task>
+    </tasks>
+</root>

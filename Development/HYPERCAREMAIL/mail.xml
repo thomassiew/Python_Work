@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <email>
+        <query>
+            "Queryname"
+        </query>
+        <item key="To">ysiew</item>
+        <item key="Cc">ysiew</item>
+        <item key="Bcc">ysiew</item>
+        <item key="Subject">nimen haoo</item>
+    </email>
+</root>

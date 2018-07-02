@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <rules>
+        <emails>
+            <group>
+                <item key="C.SAP.MY.APAC.LA1">DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.SAP.MY.APAC.LINDE">DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.SAP.MY.LA.BAT">DL-TS-Prod-CSS-GDU-SAP-TS-APAC-Msia-LA-1@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.CN.UNX">BMWDMS_support.cn@t-systems.com; Michael.Gao@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.CN.SYSMGT">Dave.Chen@t-systems.com; Chao.Ma@t-systems.com ; qing.tian@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.DPS.SG.DCN">csnw@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.DPS.SG.CCO.DCOPS">DCOps-Singapore@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.CN.WIN">tao.feng@buyin.pro; xibin.zhang@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.CN.SBO">xbai@vli.t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.SG.DEPLOY">tss_cs_windows_support@t-systems.com;tss_cs_unix_support@t-systems.com; tsscs-vmsupport@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.APAC.CN.DCI">Paul.Huang@t-systems.com/DPS-PCC@t-systems.com;DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com;Narasimha-Reddy.Sathi@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.DPS.MY.SBO.BNR.RMI">FMB-TSMY-GSO-BNR-RM@t-systems.com/DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.DPS.MY.SBO.NAS.RMI">FMB-TSMY-GSO-NAS-RM@t-systems.com/DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <item key="C.DPS.MY.SBO.SAN.RMI">FMB-TSMY-GSO-SAN-RM@t-systems.com/DPS-PCC@t-systems.com; DL.DL-TS-ITD-ITO-IOC-DEA@t-systems.com; DL-TSMY-SBO-CORE-OPS-L2@t-systems.com;Sharmila.Santharasagaran@t-systems.com</item>
+                <emailitem>
+                    <item key="BCC">thomas.siew@t-systems.com;DPS-PCC@t-systems.com</item>
+                    <item key="Subject"> [%s] - P%s incident ticket detected for [L2] to action : %s - %s </item>
+                    <item key="Body">&lt;body&gt; &lt;center&gt; &lt;img src='cid:ioc.jpg'/&gt; &lt;/center&gt; &lt;p&gt; Dear Team,&lt;/p&gt; &lt;p&gt; We have accepted the ticket on your behalf in  %s , please do the needful to solve the issue.&lt;/p&gt; &lt;p&gt;  Thank You &lt;/p&gt; &lt;/body&gt; </item>
+                </emailitem>
+            </group>
+        </emails>
+    </rules>
+</root>

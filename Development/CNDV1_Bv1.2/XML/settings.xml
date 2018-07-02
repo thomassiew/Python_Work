@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<sm9_firefox_start>
+			<item key="headless">0</item>
+			<item key="storetype">application/octet-stream;application/zip;application/x-troff-man;application/x-zip-compressed;application/msword</item>
+			<item key="firefoxpref">1</item>
+			<item key="website">https://smweb.telekom.de/sm-prod/index.do?lang=en</item>
+			<item key="ticketfolder">C:\SM9Automation\Ticket</item>
+            <item key="archivefolder">C:\SM9Automation\Archive</item>
+			<item key="emailfolder">C:\SM9Automation\Emailing</item>
+	</sm9_firefox_start>
+	<sm9_favdash_query_select>
+			<item key="queryname">EVENTAGAUTOMATION</item>
+	</sm9_favdash_query_select>
+</root>

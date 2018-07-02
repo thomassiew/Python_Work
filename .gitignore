@@ -1,0 +1,8 @@
+*.exe
+*.pyc
+*.spec
+*.log
+*.txt
+*.pid
+*./dist
+*./build

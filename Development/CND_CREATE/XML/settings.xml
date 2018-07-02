@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <sm9_firefox_start>
+        <item key="headless">0</item>
+        <item key="storetype">
+            application/octet-stream;application/zip;application/x-troff-man;application/x-zip-compressed;application/msword
+        </item>
+        <item key="WIW">YSIEW</item>
+        <item key="firefoxpref">1</item>
+        <item key="website">https://smweb.telekom.de/sm-prod/index.do?lang=en</item>
+        <item key="createrequest">/INM/NEW</item>
+        <item key="archivefolder">/INM/ARCHIVE</item>
+        <item key="failfolder">/INM/FAIL</item>
+    </sm9_firefox_start>
+</root>
